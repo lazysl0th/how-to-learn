@@ -1,3 +1,5 @@
+/*normalize*/
+@import "../vendor/normalize.css";
 /*keyframe*/
 @import "../blocs/rotation/rotation.css";
 /*page*/
@@ -64,6 +66,7 @@
 /*resources*/
 @import "../blocs/resources/resources.css";
 @import "../blocs/resources/__logo-zone/resources__logo-zone.css";
+@import "../blocs/resources/__link/resources__link.css";
 @import "../blocs/resources/__logo/resources__logo.css";
 /*footer*/
 @import "../blocs/footer/footer.css";
